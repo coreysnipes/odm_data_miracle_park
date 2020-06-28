@@ -1,2 +1,2 @@
 # odm_data_miracle_park
-Shared drone dataset for photogrammetry, contributed by Bob (HAWK-i.us)
+Drone dataset for photogrammetry, originally contributed by Bob (HAWK-i.us).
